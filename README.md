@@ -1,7 +1,7 @@
 # OO_Design_Final_Project
 This final project is to pick two object-oriented languages and compare.
 
-# Comparison Criteria are as follows: 
+### Comparison Criteria are as follows: 
 ```sh
 •	Language purpose/genesis
   o	Why was the language created?
