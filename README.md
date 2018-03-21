@@ -1,10 +1,11 @@
 # OO_Design_Final_Project
 This final project is to pick two object-oriented languages and compare.
 
+```sh
 # Comparison Criteria are as follows: 
-##•	Language purpose/genesis
-  ###o	Why was the language created?
-  ###o	What problems was the language trying to address?
+•	Language purpose/genesis
+  o	Why was the language created?
+  o	What problems was the language trying to address?
   o	Is the language a reaction to a previous language or a replacement for another language?
 •	Unique features of the language
   o	Does the language have any particularly unique features?
@@ -58,3 +59,4 @@ This final project is to pick two object-oriented languages and compare.
 •	Multithreading
   o	Threads or thread-like abilities
   o	How is multitasking accomplished?
+```
