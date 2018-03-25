@@ -2,11 +2,12 @@
 This final project is to pick two object-oriented languages and compare.
 
 ### Comparison Criteria are as follows: 
+
+####Language purpose/genesis
 ```sh
-•	Language purpose/genesis
-  o	Why was the language created?
-  o	What problems was the language trying to address?
-  o	Is the language a reaction to a previous language or a replacement for another language?
+Why was the language created?
+What problems was the language trying to address?
+Is the language a reaction to a previous language or a replacement for another language?
 ```
 
 ```sh
