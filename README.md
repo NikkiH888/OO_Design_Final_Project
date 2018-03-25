@@ -83,10 +83,16 @@ Does the language have features for handling null/nil references?
 ```
 
 #### Errors and exception handling
+```sh
+```
 
 #### Lambda expressions, closures, or functions as types
+```sh
+```
 
 #### Implementation of listeners and event handlers
+```sh
+```
 
 #### Singleton
 ```sh
