@@ -3,19 +3,36 @@
 #### Language purpose/genesis
 ```sh
 Why was the language created?
+Swift:
+Java: 
+
 What problems was the language trying to address?
+Swift:
+Java: 
+
 Is the language a reaction to a previous language or a replacement for another language?
+Swift:
+Java: 
 ```
+
+
 
 #### Unique features of the language
 ```sh
 Does the language have any particularly unique features?
+Swift:
+Java: 
 ```
  
 #### Name spaces
 ```sh
 How are name spaces implemented?
+Swift:
+Java: 
+
 How are name spaces used?
+Swift:
+Java: 
 ```
 
 #### Types
