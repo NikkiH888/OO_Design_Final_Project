@@ -1,9 +1,9 @@
 # OO_Design_Final_Project
 This final project is to pick two object-oriented languages and compare.
 ```sh
-The two languages: Java and Swift.
-Team Members:      Nijaporn Hotrabhavananda 
-                   Benjavicha Hotrabhavananda
+Languages:    Java and Swift.
+Team Members: Nijaporn Hotrabhavananda 
+              Benjavicha Hotrabhavananda
 ```
 
 ### Comparison Criteria are as follows: 
