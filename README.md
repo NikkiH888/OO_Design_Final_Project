@@ -7,20 +7,33 @@ This final project is to pick two object-oriented languages and compare.
   o	Why was the language created?
   o	What problems was the language trying to address?
   o	Is the language a reaction to a previous language or a replacement for another language?
+```
+
+```sh
 •	Unique features of the language
   o	Does the language have any particularly unique features?
+```
+ 
+```sh
 •	Name spaces
   o	How are name spaces implemented?
   o	How are name spaces used?
+```
+
+```sh
 •	Types
   o	What types does the language support?
   o	Are both reference and value types supported?
   o	Can new value types be created?
+``` 
+ 
+```sh
 •	Classes
   o	Defining
   o	Creating new instances
   o	Constructing/initializing
   o	Destructing/de-initializing
+ ``` 
 •	Instance reference name in data type (class)
   o	this? self?
 •	Properties
