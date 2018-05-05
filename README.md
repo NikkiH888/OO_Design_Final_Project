@@ -8,8 +8,9 @@ Team Members: Nijaporn Hotrabhavananda
 
 Comparison Criteria are as follows: 
 
--[Language purpose/genesis](purposes.md)
--[Unique features of the language]()
+-[Language purpose/genesis](langPurposes.md)
+
+-[Unique features of the language](uniqueFeatures.md)
  
 Name spaces]
 
