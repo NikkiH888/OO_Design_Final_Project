@@ -42,7 +42,7 @@ Team Members: Nijaporn Hotrabhavananda
 
 - [Singleton](singleton.md)
 
-- [Procedural Programming]([procedural-programming.md)
+- [Procedural Programming](procedural-programming.md)
 
 - [Functional Programming](functional-programming.md)
 
