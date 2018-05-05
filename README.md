@@ -6,7 +6,7 @@ Team Members: Nijaporn Hotrabhavananda
               Benjavicha Hotrabhavananda
 ```
 
-Comparison Criteria are as follows: 
+### Comparison Criteria are as follows: 
 
 - [Language purpose/genesis](langPurposes.md)
 
