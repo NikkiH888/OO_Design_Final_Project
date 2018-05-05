@@ -8,11 +8,11 @@ Team Members: Nijaporn Hotrabhavananda
 
 ### Comparison Criteria are as follows: 
 
-- [Language purpose/genesis](langPurposes.md)
+- [Language Purpose/Genesis](langPurposes.md)
 
-- [Unique features of the language](unique-features.md)
+- [Unique Features of the Language](unique-features.md)
  
-- [Name spaces](namespaces.md)
+- [Name Spaces](namespaces.md)
 
 - [Types](types.md)
 
@@ -22,28 +22,28 @@ Team Members: Nijaporn Hotrabhavananda
 
 - [Properties](properties.md)
  
-- [Interfaces / Protocols](interfac-protocals.md)
+- [Interfaces/Protocols](interfac-protocals.md)
 
-- [Inheritance / Extension](inheritance-and-extension.md)
+- [Inheritance/Extension](inheritance-and-extension.md)
 
 - [Reflection](reflection.md)
 
-- [Memory management](memory-management.md)
+- [Memory Management](memory-management.md)
 
-- [Comparisons of references and values](comparison-of-references-and-values.md)
+- [Comparisons of References and Values](comparison-of-references-and-values.md)
 
-- [Null/nil references](NULL-and-nil-references.md)
+- [Null/nil References](NULL-and-nil-references.md)
 
-- [Errors and exception handling](errors-and-exception-handling.md)
+- [Errors and Exception Handling](errors-and-exception-handling.md)
 
-- [Lambda expressions, closures, or functions as types](lambda-expression-closures-or-functions-as-types.md)
+- [Lambda Expressions, Closures, or Functions as Types](lambda-expression-closures-or-functions-as-types.md)
 
-- [Implementation of listeners and event handlers](implementation-of-list.md)
+- [Implementation of Listeners and Event Handlers](implementation-of-list.md)
 
 - [Singleton](singleton.md)
 
-- [Procedural programming]([procedural-programming.md)
+- [Procedural Programming]([procedural-programming.md)
 
-- [Functional programming](functional-programming.md)
+- [Functional Programming](functional-programming.md)
 
 - [Multithreading](multithreading.md)
