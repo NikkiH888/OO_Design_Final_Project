@@ -8,44 +8,44 @@ Team Members: Nijaporn Hotrabhavananda
 
 Comparison Criteria are as follows: 
 
-Language purpose/genesis
+[-Language purpose/genesis]
 
-Unique features of the language
+[-Unique features of the language]
  
-Name spaces
+Name spaces]
 
-How are name spaces used?
+How are name spaces used?]
 
-Types
+Types]
 
-Classes
+Classes]
 
-Instance reference name in data type (class)
+Instance reference name in data type (class)]
 
-Properties
-  
-Interfaces / protocols
+Properties]
+ 
+Interfaces / protocols]
 
-Inheritance / extension
+Inheritance / extension]
 
 Reflection
 
-Memory management
+Memory management]
 
-Comparisons of references and values
+Comparisons of references and values]
 
-Null/nil references
+Null/nil references]
 
-Errors and exception handling
+Errors and exception handling]
 
-Lambda expressions, closures, or functions as types
+Lambda expressions, closures, or functions as types]
 
-Implementation of listeners and event handlers
+Implementation of listeners and event handlers]
 
-Singleton
+Singleton]
 
-[Procedural programming
+[Procedural programming]
 
-[Functional programming
+[Functional programming]
 
 [Multithreading]
