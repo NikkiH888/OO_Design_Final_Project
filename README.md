@@ -8,7 +8,7 @@ Team Members: Nijaporn Hotrabhavananda
 
 ### Comparison Criteria are as follows: 
 
-- [Language Purpose/Genesis](langPurposes.md)
+- [Language Purpose/Genesis](language-purposes.md)
 
 - [Unique Features of the Language](unique-features.md)
  
