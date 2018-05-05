@@ -12,40 +12,40 @@ Comparison Criteria are as follows:
 
 - [Unique features of the language](uniqueFeatures.md)
  
-- [Name spaces]
+- [Name spaces](uniqueFeatures.md)
 
-- [How are name spaces used?]
+- [How are name spaces used?](uniqueFeatures.md)
 
-- [Types]
+- [Types](uniqueFeatures.md)
 
-- [Classes]
+- [Classes](uniqueFeatures.md)
 
-- [Instance reference name in data type (class)]
+- [Instance reference name in data type (class)](uniqueFeatures.md)
 
-- [Properties]
+- [Properties](uniqueFeatures.md)
  
-- [Interfaces / protocols]
+- [Interfaces / protocols](uniqueFeatures.md)
 
-- [Inheritance / extension]
+- [Inheritance / extension](uniqueFeatures.md)
 
-- [Reflection]
+- [Reflection](uniqueFeatures.md)
 
-- [Memory management]
+- [Memory management](uniqueFeatures.md)
 
-- [Comparisons of references and values]
+- [Comparisons of references and values](uniqueFeatures.md)
 
-- [Null/nil references]
+- [Null/nil references](uniqueFeatures.md)
 
-- [Errors and exception handling]
+- [Errors and exception handling](uniqueFeatures.md)
 
-- [Lambda expressions, closures, or functions as types]
+- [Lambda expressions, closures, or functions as types](uniqueFeatures.md)
 
-- [Implementation of listeners and event handlers]
+- [Implementation of listeners and event handlers](uniqueFeatures.md)
 
-- [Singleton]
+- [Singleton](uniqueFeatures.md)
 
-- [Procedural programming]
+- [Procedural programming](uniqueFeatures.md)
 
-- [Functional programming]
+- [Functional programming](uniqueFeatures.md)
 
-- [Multithreading]
+- [Multithreading](uniqueFeatures.md)
