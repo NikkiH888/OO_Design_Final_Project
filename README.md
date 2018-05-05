@@ -10,40 +10,40 @@ Team Members: Nijaporn Hotrabhavananda
 
 - [Language purpose/genesis](langPurposes.md)
 
-- [Unique features of the language](uniqueFeatures.md)
+- [Unique features of the language](unique-features.md)
  
 - [Name spaces](namespaces.md)
 
 - [Types](types.md)
 
-- [Classes](uniqueFeatures.md)
+- [Classes](classes.md)
 
-- [Instance reference name in data type (class)](uniqueFeatures.md)
+- [Instance reference name in data type (class)](instance-reference.md)
 
-- [Properties](uniqueFeatures.md)
+- [Properties](properties.md)
  
-- [Interfaces / protocols](uniqueFeatures.md)
+- [Interfaces / Protocols](interfac-protocals.md)
 
-- [Inheritance / extension](uniqueFeatures.md)
+- [Inheritance / Extension](inheritance-and-extension.md)
 
-- [Reflection](uniqueFeatures.md)
+- [Reflection](reflection.md)
 
-- [Memory management](uniqueFeatures.md)
+- [Memory management](memory-management.md)
 
-- [Comparisons of references and values](uniqueFeatures.md)
+- [Comparisons of references and values](comparison-of-references-and-values.md)
 
-- [Null/nil references](uniqueFeatures.md)
+- [Null/nil references](NULL-and-nil-references.md)
 
-- [Errors and exception handling](uniqueFeatures.md)
+- [Errors and exception handling](errors-and-exception-handling.md)
 
-- [Lambda expressions, closures, or functions as types](uniqueFeatures.md)
+- [Lambda expressions, closures, or functions as types](lambda-expression-closures-or-functions-as-types.md)
 
-- [Implementation of listeners and event handlers](uniqueFeatures.md)
+- [Implementation of listeners and event handlers](implementation-of-list.md)
 
-- [Singleton](uniqueFeatures.md)
+- [Singleton](singleton.md)
 
-- [Procedural programming](uniqueFeatures.md)
+- [Procedural programming]([procedural-programming.md)
 
-- [Functional programming](uniqueFeatures.md)
+- [Functional programming](functional-programming.md)
 
-- [Multithreading](uniqueFeatures.md)
+- [Multithreading](multithreading.md)
