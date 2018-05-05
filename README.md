@@ -22,7 +22,7 @@ Team Members: Nijaporn Hotrabhavananda
 
 - [Properties](properties.md)
  
-- [Interfaces/Protocols](interfac-protocals.md)
+- [Interfaces/Protocols](interfaces-protocals.md)
 
 - [Inheritance/Extension](inheritance-and-extension.md)
 
