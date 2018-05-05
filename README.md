@@ -12,11 +12,9 @@ Team Members: Nijaporn Hotrabhavananda
 
 - [Unique features of the language](uniqueFeatures.md)
  
-- [Name spaces](uniqueFeatures.md)
+- [Name spaces](namespaces.md)
 
-- [How are name spaces used?](uniqueFeatures.md)
-
-- [Types](uniqueFeatures.md)
+- [Types](types.md)
 
 - [Classes](uniqueFeatures.md)
 
