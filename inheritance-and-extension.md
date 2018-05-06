@@ -8,7 +8,7 @@ class Cat extends Animal {
 
 #### Interfaces can also be used inheritance. Moreover, Java lets you implements multiple interfaces.
 ```java
-interface OwnedPet extends BoughtPet, LicensedPet, MouseListener {
+interface A extends InterfaceB, InterfaceC, InterfaceD {
 
 }
 ```
