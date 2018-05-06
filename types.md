@@ -9,10 +9,13 @@
   - double
   - boolean
   - char
-#### Here's how you define a primitve type and use it in a comparison
-```java
-int data = 7;
-if(data == 8){
-    System.out.println("My variable equals 8");
-}
-```
+
+## 2. Objects 
+## This is reference types. It is the variables hold references to the object. Objects from the java.lang.number which sort of parallel the primitive data types are listed below.
+  - Byte 
+  - Short
+  - Integer
+  - Long
+  - Float
+  - Double
+
