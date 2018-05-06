@@ -1,6 +1,9 @@
 # C#
-```sh
+```
 
+Anders Hejlsberg was a lead architech of Microsoft that developing C#. During that time he thought 
+that there were flaws in most major programming languages (i.e. C++, Java, Delphi, Smalltalk, etc.)
+which drove the development of C#. Other purpose of creating it was needing to port the .NET framework. 
 ```
 
 # Java
