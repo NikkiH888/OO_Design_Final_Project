@@ -11,7 +11,7 @@
   - char
 
 ## 2. Objects 
-## This is reference types. It is the variables hold references to the object. Objects from the java.lang.number which sort of parallel the primitive data types are listed below.
+#### This is reference types. It is the variables hold references to the object. Objects from the java.lang.number which sort of parallel the primitive data types are listed below.
   - Byte 
   - Short
   - Integer
