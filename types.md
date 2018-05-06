@@ -1,4 +1,4 @@
-# Java: There are two main types:
+# Java: There are two main types.
 ## 1. Primitive Data Types
 #### There are 8 value types and it is impossible to create new ones.
   - byte
