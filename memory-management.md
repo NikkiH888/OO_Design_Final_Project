@@ -1,1 +1,2 @@
-
+# Java
+- Java stores objects in the a heap which is divided into two areas. First, the nursery is used for new objects, but when it becomes too full some of the objects are moved to the second space which is the old space. After that the garbage collection will begin happening there after the old space full. The garbage collection is used when areas become full. Java does not support automatic reference counting.
