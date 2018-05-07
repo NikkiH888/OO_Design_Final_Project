@@ -1,5 +1,5 @@
 # Java
-#### There are multiple ways to create a singleton in Java. For example, the one with 'thread safe' which means all threads operating on the instance will be using the same version and will not be able to desynchronize.
+#### There are multiple ways to create a singleton in Java. For example, the one with 'thread safe'.
 ```java
 public class Singleton {
     private Singleton() {}
