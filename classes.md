@@ -20,5 +20,17 @@ Class_name(){
 ```java
 Class_name myInstance = new Class_name();
 ```
-
-
+# C#
+####  To define a class you can do the following: 
+```C#
+class Class_name : Super_class_name, Interface_class_name {
+    
+}
+```
+#### Destructos receive called whenever an object is no longer used and garbage collected. Unlike Java, this does have the ability to write destructors on classes.
+```C#
+~Class_name()
+{
+    Console.WriteLine("The Class_name object has been destroyed!!");
+}
+```
