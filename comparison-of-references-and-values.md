@@ -12,7 +12,7 @@
 - Equals() is polymorphic
 - The implementation of '=='
 
-#### Example Code:
+#### Example Codes:
 Object x = new StringBuilder("Nikki").ToString();
 Object y = new StringBuilder("Nikki").ToString();
 - Comparing references
