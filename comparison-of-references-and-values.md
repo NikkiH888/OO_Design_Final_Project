@@ -15,10 +15,15 @@
 #### Example Code:
 Object x = new StringBuilder("Nikki").ToString();
 Object y = new StringBuilder("Nikki").ToString();
-if (x.Equals(y)) // 1
+- Comparing references
+if (x.Equals(y)) { 
 
-string xs = (string) x;
-string ys = (string) y;
+} 
 
-- Comparing values appropriately
-if (xs == ys) // 1
+string string_x = (string) x;
+string string_y = (string) y;
+
+- Comparing values
+if (string_x == string_y) {
+
+}
