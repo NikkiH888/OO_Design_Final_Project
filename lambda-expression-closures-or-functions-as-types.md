@@ -17,7 +17,7 @@ MathOperation multiplication = (int a, int b) -> { return a * b; };
 - By using lambda expressions, you can write local functions that can be passed as arguments or returned as the value of function calls.
 - To create a lambda expression, you specify input nother or parameters on the left side of the lambda operator =>, and you put the expression or statement block on the other side. For example, the lambda expression x => x * x specifies a parameter that’s named x and returns the value of x squared. 
 
-####There are three main ones:
+### There are three main ones:
 
 #### Expression Lambdas:
 * (input-parameters) => expression
