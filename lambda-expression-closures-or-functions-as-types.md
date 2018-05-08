@@ -5,8 +5,10 @@
 #### Code Examples:
 // Type declaration
 MathOperation addition = (int a, int b) -> a + b;
+
 // Without type declaration
 MathOperation subtraction = (a, b) -> a - b;
+
 // Return statement along with curly braces
 MathOperation multiplication = (int a, int b) -> { return a * b; };
 
